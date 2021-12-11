@@ -1,6 +1,6 @@
 # Airlines-Customer-satisfaction-classification
 
-<center><img align="center" src="IMDb.jpg"></center>
+<center><img align="center" src="Airlines Customer satisfaction12.jpg"></center>
 
 ### Introduction:
 
