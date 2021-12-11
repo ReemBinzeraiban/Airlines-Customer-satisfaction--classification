@@ -77,6 +77,7 @@ We will be using the " analyze the data airline customer satisfaction data " Dat
 ### Tools:
 
 Technologies: python, Jupyter notebook
+
 Libraries: pandas, numpy, matplotlib, seaborn, , LogisticRegression , sklearn.linear_model, sklearn.model_selection, sklearn.preprocessing
 
 ### BY
