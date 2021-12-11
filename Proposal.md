@@ -1,5 +1,7 @@
 # Airlines-Customer-satisfaction-classification
 
+<center><img align="center" src="IMDb.jpg"></center>
+
 ### Introduction:
 
 Customer satisfaction metric is a vital element for businesses. Airlines companies need to measure this level of satisfaction in order to control and improve it, thus airlines can achieve a higher quality level that meets customer expectations.
